@@ -375,5 +375,3 @@ A API foi estruturada para ser intuitiva e segura, utilizando grupos de rotas pr
 **Nota:** Toda a comunicação protegida exige o envio de um header Authorization: Bearer \<token\>.
 
 
-
-
